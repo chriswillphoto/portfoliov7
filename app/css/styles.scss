@@ -1,0 +1,12 @@
+* {
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0;
+}
+
+// component stylesheets
+@import './menu';
+@import './hero';
+@import './about';
+@import './work';
+@import './contact';
